@@ -1,2 +1,2 @@
 # Mixtli
-Visión por computadora
+Visión por computadora para Tello y PicarV
