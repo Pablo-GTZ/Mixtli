@@ -1,2 +1,2 @@
 # Mixtli
-Visión por computadora para Tello y PicarV
+Understanding the fundamentals of computer vision with various updated on a line follower
